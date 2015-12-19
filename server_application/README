@@ -1,0 +1,30 @@
+HOTEL RESERVATION SYSTEM - SERVER
+
+README
+
+1. INTRODUCTION
+	This is the server part of the hotel reservation system.
+
+2. INSTALLATION
+
+	a.	Install virtualenv if not installed
+		by using sudo apt-get install virtualenv
+
+	b.	mkdir server
+
+	c.	cd server
+
+	d.	virtualenv flask
+
+	e.	flask/bin/pip install flask
+
+	f.	Place all the files in the 'server' folder
+
+	g.	Change any settings in app.py if needed
+
+3. RUNNING THE SERVER
+
+	a. Run the script app.py from the terminal
+
+
+

@@ -1,0 +1,386 @@
+(dp0
+S'description'
+p1
+(lp2
+S'HOTEL PRINCESS (4 stars) is located at the most attractive part of Bar, nearby the promenade along the sea shore, and is surrounded by lush vegetation, museum complex and sport terraines. Rooms and apartments are comfortable and contemporarily designed, with exceptional views of the marina, beach and sea, palace and mountains at the town s hinterland. Hotel has 135 rooms, which offer modern comfort: mini bar, air conditioner, satelite & cable TV, safety deposit box, as well as all neccessary accesories and room service. Choose the bathroom you want: with bath tub and shower bath tub; only with bath tub or only with shower bath tub. Our restaurants offer specialties of national & international cuisine, various drinks, accompanied with good service. Lobby & Piano bar are pleasant spaces for rest, while having a drink and conversation with business partners or friends. You can enjoy and also have a drink or try some sweets or cakes at the Pool bar, from which you can go out to the pool and spacious terrace of the hotel.'
+p3
+aS'The Regaalis is a boutique hotel that is located in the heart of Bangalore, offers all modern amenities in a contemporary classical ambiance. This Bangalore hotel contains luxury facilities in unique or intimate settings with full service accommodations.'
+p4
+aS'Lorem ipsum sit amet'
+p5
+aS'Lorem ipsum sit amet'
+p6
+asS'name'
+p7
+(lp8
+S'Hotel Princess Montenegro'
+p9
+aS'The Regaalis'
+p10
+aS'Hotel Seven seas'
+p11
+aS'The song of the south'
+p12
+asS'rooms'
+p13
+(lp14
+(lp15
+(dp16
+S'price'
+p17
+I10400
+sS'quantity'
+p18
+I72
+sS'id'
+p19
+S'0'
+p20
+sS'name'
+p21
+S'STANDARD DOUBLE ROOM'
+p22
+sS'description'
+p23
+S'Standard double room (25m2), out of which there are 72 connected rooms where it is possible to connect, which is ideal for accommodation of parents and children.9 direct sea view 42 side sea view 55 park view'
+p24
+sa(dp25
+g17
+I33500
+sg18
+I4
+sg19
+S'1'
+p26
+sg21
+S'DELUXE SUITE APARTMANA'
+p27
+sg23
+S'Deluxe suite is a three-room, comfortable apartment which is consisted of living room, two bedrooms and two bathrooms. The apartments have direct sea view and park view. Maximal number of persons: four adults and two children.'
+p28
+sa(dp29
+g17
+I13500
+sg18
+I10
+sg19
+S'2'
+p30
+sg21
+S'JUNIOR SUITE APARTMENT'
+p31
+sg23
+S'Junior suites are consisted of living room and bedroom. The apartments have sea and park view.'
+p32
+sa(dp33
+g17
+I3500
+sg18
+I2
+sg19
+S'3'
+p34
+sg21
+S'DISABLE'
+p35
+sg23
+S'Specially equipped rooms in order to satisfy the needs of people with limited physical capabilities. Park view.'
+p36
+saa(lp37
+(dp38
+S'id'
+p39
+S'0'
+p40
+sS'price'
+p41
+I17400
+sS'description'
+p42
+S'Standard double room (25m2), out of which there are 72 connected rooms where it is possible to connect, which is ideal for accommodation of parents and children. 9 direct sea view 42 side sea view 55 park view'
+p43
+sS'name'
+p44
+S'THE EMPERORS SUITE'
+p45
+sS'quantity'
+p46
+I72
+sa(dp47
+g39
+S'1'
+p48
+sg41
+I13500
+sg42
+S'Deluxe suite is a three-room, comfortable apartment which is consisted of living room, two bedrooms and two bathrooms. The apartments have direct sea view and park view. Maximal number of persons: four adults and two children.'
+p49
+sg44
+S'THE DELUXE SUITE'
+p50
+sg46
+I4
+saa(lp51
+(dp52
+S'price'
+p53
+I10000
+sS'quantity'
+p54
+I4
+sS'description'
+p55
+g5
+sS'name'
+p56
+S'The royal suite'
+p57
+sS'id'
+p58
+S'0'
+p59
+sa(dp60
+g53
+I1000
+sg54
+I10
+sg55
+g5
+sg56
+S'Emperors suite'
+p61
+sg58
+S'1'
+p62
+saa(lp63
+(dp64
+S'price'
+p65
+I10000
+sS'description'
+p66
+g6
+sS'id'
+p67
+S'0'
+p68
+sS'quantity'
+p69
+I7
+sS'name'
+p70
+S'The royal suite'
+p71
+sa(dp72
+g65
+I1000
+sg66
+g6
+sg67
+S'1'
+p73
+sg69
+I1
+sg70
+S'Emperors suite'
+p74
+saasS'address'
+p75
+(lp76
+S'Jovana Tomasevica 21\n85000 Bar, Montenegro\nTel: +382 30 300 100 ; +382 30 300 300\nFax: +382 30 312 510\nEmail: reservations@hotelprincess.svs.com'
+p77
+aS'36/C Hosur road\nElectronic city\nMangalore - 567201\nTel: +382 30 300 100 ; +382 30 300 300\nFax: +382 30 312 510\nEmail: reservations@hotelregaalis.svs.com'
+p78
+aS'36/C Hosur road, Electronic city, Bangalore - 567200'
+p79
+aS'36/C Hosur road, Electronic city, Mangalore - 567201'
+p80
+asS'id'
+p81
+(lp82
+g20
+ag48
+aS'2'
+p83
+aS'3'
+p84
+asS'restaurants'
+p85
+(lp86
+(lp87
+(dp88
+g23
+S'All day dining, multi-cuisine, bistro style restaurant, offers the best of world cuisine.'
+p89
+sg19
+g20
+sg21
+S'The Northern Scarf'
+p90
+sg18
+I100
+saa(lp91
+(dp92
+g46
+I100
+sg39
+g40
+sg44
+S'La Gardenia'
+p93
+sg42
+S'All day dining, multi-cuisine, bistro style restaurant, offers the best of world cuisine.'
+p94
+sa(dp95
+g46
+I100
+sg39
+g48
+sg44
+S'Chaarcoals'
+p96
+sg42
+S'Our pool side restaurant in Mangalore hotel offers the best of curries and kababs. Cane furniture, lush green landscape and the cool breeze flowing over the waters makes it an inviting option.'
+p97
+saa(lp98
+(dp99
+g58
+g59
+sg55
+g5
+sg56
+S'Fresho (A/C)'
+p100
+sg54
+I100
+saa(lp101
+(dp102
+g66
+g6
+sg69
+I50
+sg67
+g68
+sg70
+S'Fresho (A/C)'
+p103
+saasS'meeting'
+p104
+(lp105
+(lp106
+(dp107
+S'seating'
+p108
+I30
+sg23
+S'The Benedict Room is a multi-purpose room. The room is equipped with four rectangular tables, allowing multiple room configurations. Tables may be removed for discussion and prayer circles. The room is AV equipped with PC-compatible projection equipment. Dry erase board and easels are available.'
+p109
+sg17
+I10000
+sg21
+S'The seven seas'
+p110
+sg19
+g20
+sg18
+I1
+saa(lp111
+(dp112
+S'seating'
+p113
+I30
+sg42
+S'The Benedict Room is a multi-purpose room. The room is equipped with four rectangular tables, allowing multiple room configurations. Tables may be removed for discussion and prayer circles. The room is AV equipped with PC-compatible projection equipment. Dry erase board and easels are available.'
+p114
+sg41
+I30000
+sg44
+S'Benedicts room'
+p115
+sg39
+g40
+sg46
+I1
+saa(lp116
+(dp117
+S'seating'
+p118
+I30
+sg55
+g5
+sg53
+I10000
+sg56
+S'The seven seas'
+p119
+sg58
+g59
+sg54
+I1
+saa(lp120
+asS'banquet'
+p121
+(lp122
+(lp123
+(dp124
+g108
+I150
+sg23
+S'the area 150m2, has 120 seats (classroom), 150 seats (Theatat) and 50 seats (form II) and two smaller rooms, land 70m2, have the following capacity: 40 seats (Classroom), 50 seats (Theatat) and 25 seats (form II). In each room is modern audio-visual equipment PC and printer, projector, screen (Dimension 240 x 240), DVD, TV, video, flip chart, speakers and Internet access. There is the possibility of using fax, copier and printer equipment. In the immediate vicinity of these spaces is the lobby bar, an ideal place for a coffee break, and the Banketsaal, a place where their business lunch in a Erhohlung for all your senses transforms! Capacity: 80 seats'
+p125
+sg17
+I20000
+sg21
+S'The main hall'
+p126
+sg19
+g20
+sg18
+I3
+saa(lp127
+(dp128
+g113
+I150
+sg42
+S'the area 150m2, has 120 seats (classroom), 150 seats (Theatat) and 50 seats (form II) and two smaller rooms, land 70m2, have the following capacity: 40 seats (Classroom), 50 seats (Theatat) and 25 seats (form II). In each room is modern audio-visual equipment PC and printer, projector, screen (Dimension 240 x 240), DVD, TV, video, flip chart, speakers and Internet access. There is the possibility of using fax, copier and printer equipment. In the immediate vicinity of these spaces is the lobby bar, an ideal place for a coffee break, and the Banketsaal, a place where their business lunch in a Erhohlung for all your senses transforms! Capacity: 80 seats'
+p129
+sg41
+I50000
+sg44
+S'The seventh hall'
+p130
+sg39
+g40
+sg46
+I3
+saa(lp131
+(dp132
+g118
+I400
+sg55
+g5
+sg53
+I10000
+sg56
+g119
+sg58
+g59
+sg54
+I1
+saa(lp133
+asS'users'
+p134
+(lp135
+(lp136
+g20
+ag26
+aa(lp137
+g40
+ag48
+aa(lp138
+g59
+ag62
+aa(lp139
+g68
+ag73
+aas.
